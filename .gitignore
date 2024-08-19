@@ -1,0 +1,4 @@
+node_modules/
+.idea/
+/data/chickirdatabase.db
+/data/database.db
